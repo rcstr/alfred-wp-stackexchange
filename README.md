@@ -1,2 +1,10 @@
 # alfred-wp-stackexchange
-Alfred extension that allows you to search on wordpress.stackexchange.com
+
+## Usage
+
+1. type wpq on Alfred
+```
+wpq my question
+```
+2. wait a couple of seconds for results
+3. click or press enter on the results to open question on browser
