@@ -8,3 +8,6 @@ wpq my question
 ```
 2. wait a couple of seconds for results
 3. click or press enter on the results to open question on browser
+
+## Credits
+[xhinking/Alfred](https://github.com/xhinking/Alfred)
